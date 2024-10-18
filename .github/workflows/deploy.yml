@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: devops_tp1/tp1:latest
+          tags: yassinedha/devops_tp1:latest
