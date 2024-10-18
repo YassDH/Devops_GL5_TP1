@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/hello-world-nodejs:latest
+          tags: devops_tp1/tp1:latest
