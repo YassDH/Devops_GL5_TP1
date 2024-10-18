@@ -1,0 +1,21 @@
+{
+  "name": "hello-world-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "hello-world-nodejs": "file:",
+    "supertest": "^7.0.0"
+  }
+}
